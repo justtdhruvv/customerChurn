@@ -19,4 +19,4 @@ The final model achieved an accuracy of approximately 80% on the test set. The m
 ## 5. How to Run
 1. Clone this repository.
 2. Install the required libraries: `pip install -r requirements.txt`
-3. Run the Jupyter Notebook `churn_analysis.ipynb`.
+3. Run the python script `main.py`.
